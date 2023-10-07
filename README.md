@@ -1,6 +1,6 @@
 # Prueba-git
 ## IA
-La IA que cree lo que hace es diferenciar personas humanas de Caballos 
+*_La IA que cree lo que hace es diferenciar personas humanas de Caballos_* 
 ✨
 🐎
 ✨
